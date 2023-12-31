@@ -19,20 +19,25 @@ This program calculates public transport routes between stations based on predef
 
 Clone the Repository:
 git clone https://github.com/DAVIDS4A/Doctor-Winter.git
-Navigate to the Directory
+
+Navigate to the 
 cd public-transport-route-calculator
 Launch Prolog
 swipl
 Load the Program
+
 In the Prolog console, load the main file:
 [main_file_name]. % Replace 'main_file_name' with the actual name of the Prolog file
+
 Run the Program: Once the file is loaded, execute the start_diagnosis/0 predicate:
 start_diagnosis.
+
 Follow On-Screen Instructions:
 •	Enter Illness Symptoms.
 •	Enter your Age.
 •	Enter your Allergies or “none.” If you have none.
 •	Enter any medication you are currently taking or “none.” If there’s none .
+
 Exiting the Program:
 •	To exit the Prolog console, type halt. or use the appropriate exit command for your system.
 NOTE:
