@@ -2,15 +2,21 @@
 
 A Winter Illness Diagnosis Expert System
 # Description:
+
 Doctor Winter is a Prolog-based expert system designed to assist users in identifying common winter illnesses based on input symptoms, age, allergies, and current medications. The system employs a database of symptoms, associated illnesses, and recommended medications to provide accurate diagnoses.
 # Features:
+
 Symptom-Based Diagnosis: Users input their symptoms to receive accurate illness identification.
 Consideration of Personal Factors: Age, allergies, and current medications are taken into account for tailored diagnosis recommendations.
 Specific Medication Suggestions: Doctor Winter offers precise medication suggestions for diagnosed illnesses.
-# Overview -This program calculates public transport routes between stations based on predefined schedules and stops.
+# Overview 
+
+This program calculates public transport routes between stations based on predefined schedules and stops.
 # Prerequisites
+
 •	Prolog installed on your system. Download Prolog
 # Running the Program 
+
 Clone the Repository:
 git clone https://github.com/DAVIDS4A/Doctor-Winter.git
 Navigate to the Directory
@@ -29,7 +35,7 @@ Follow On-Screen Instructions:
 •	Enter any medication you are currently taking or “none.” If there’s none .
 Exiting the Program:
 •	To exit the Prolog console, type halt. or use the appropriate exit command for your system.
-# NOTE:
+NOTE:
 •	Ensure that the symptoms match the station names listed in the program's data.
 •	If no illness is found, the program will display a corresponding message.
 Example Query: Here are some sample queries you can try in the Prolog console:
