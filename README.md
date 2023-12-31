@@ -38,7 +38,10 @@ Exiting the Program:
 NOTE:
 •	Ensure that the symptoms match the station names listed in the program's data.
 •	If no illness is found, the program will display a corresponding message.
-Example Query: Here are some sample queries you can try in the Prolog console:
+
+# Example Query: 
+Here are some sample queries you can try in the Prolog console:
+
 ?- start_diagnosis.
 Enter patient symptoms separated by commas: 
 |: [fever,severecough,bodyaches,fatigue,respiratorysymptoms].
@@ -54,7 +57,9 @@ Medication: [antivirals,painrelief,fluidsrest]
 THANK YOU FOR USING DR. WINTER.
 true.
 ?-
+
 Contributing Contributions are welcome! Fork the repository, make changes, and submit a pull request.
-License This project is licensed under the MIT License.
+
+This project is licensed under the MIT License.
 
 
