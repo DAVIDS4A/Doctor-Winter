@@ -9,9 +9,7 @@ Doctor Winter is a Prolog-based expert system designed to assist users in identi
 Symptom-Based Diagnosis: Users input their symptoms to receive accurate illness identification.
 Consideration of Personal Factors: Age, allergies, and current medications are taken into account for tailored diagnosis recommendations.
 Specific Medication Suggestions: Doctor Winter offers precise medication suggestions for diagnosed illnesses.
-# Overview 
 
-This program calculates public transport routes between stations based on predefined schedules and stops.
 # Prerequisites
 
 •	Prolog installed on your system. Download Prolog
