@@ -1,27 +1,27 @@
 
-# Doctor Winter
+# <span style="color:#3498db;">Doctor Winter</span>
 
 ![Doctor Winter](https://via.placeholder.com/150)
 
-## Overview
+## <span style="color:#e74c3c;">Overview</span>
 
-**Doctor Winter** is an intelligent medical diagnosis system written in Prolog. It allows users to diagnose common and serious illnesses based on symptoms, age, allergies, and current medications. The system also suggests appropriate medications and provides additional considerations for certain conditions.
+**<span style="color:#2ecc71;">Doctor Winter</span>** is an intelligent medical diagnosis system written in Prolog. It allows users to diagnose common and serious illnesses based on symptoms, age, allergies, and current medications. The system also suggests appropriate medications and provides additional considerations for certain conditions.
 
-## Features
+## <span style="color:#f1c40f;">Features</span>
 
-- **Interactive Symptom Selection**: Users can choose from a list of possible symptoms.
-- **Age-Based Considerations**: Age-specific recommendations and restrictions.
-- **Allergy and Medication Awareness**: Avoids contraindicated treatments based on allergies and current medications.
-- **Expanded Illness Database**: Includes both common winter illnesses and more serious conditions with similar symptoms.
+- **<span style="color:#9b59b6;">Interactive Symptom Selection</span>**: Users can choose from a list of possible symptoms.
+- **<span style="color:#e67e22;">Age-Based Considerations</span>**: Age-specific recommendations and restrictions.
+- **<span style="color:#1abc9c;">Allergy and Medication Awareness</span>**: Avoids contraindicated treatments based on allergies and current medications.
+- **<span style="color:#8e44ad;">Expanded Illness Database</span>**: Includes both common winter illnesses and more serious conditions with similar symptoms.
 
-## Usage
+## <span style="color:#e74c3c;">Usage</span>
 
 1. **Load the Prolog Code**: Load the `Doctor_Winter_3.pl` file into your Prolog interpreter.
 2. **Start Diagnosis**: Run the `start_diagnosis.` predicate to begin the diagnostic process.
 3. **Follow Prompts**: Select symptoms, enter age, allergies, and current medications as prompted.
 4. **View Results**: The system will provide a diagnosis and suggested medications.
 
-## Example
+## <span style="color:#f1c40f;">Example</span>
 
 ```prolog
 ?- start_diagnosis.
@@ -38,7 +38,7 @@ Medication: [antivirals, painrelief, fluidsrest]
 THANK YOU FOR USING DR. WINTER.
 ```
 
-## Installation
+## <span style="color:#2ecc71;">Installation</span>
 
 1. Clone the repository:
    ```bash
@@ -49,15 +49,15 @@ THANK YOU FOR USING DR. WINTER.
    cd Doctor-Winter
    ```
 
-## Contributing
+## <span style="color:#e67e22;">Contributing</span>
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
+## <span style="color:#9b59b6;">License</span>
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
+## <span style="color:#8e44ad;">Acknowledgements</span>
 
 Special thanks to the Prolog community for their continuous support and contributions.
 
