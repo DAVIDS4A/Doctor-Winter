@@ -42,6 +42,8 @@ diagnosis(Illness, Symptoms, Medication, Age, Allergies, CurrentMeds) :-
     check_additional_factors(Illness, Age, Allergies, CurrentMeds),
     medication(Illness, Medication).
 
+% checks for additional factors that might influence diagnosis like
+% allergies and current medications
 check_additional_factors(Illness, Age, Allergies, CurrentMeds) :-
     % Age restrictions.
     (Illness = flu, Age >= 65) ->
