@@ -1,8 +1,6 @@
 
 # <span style="color:#3498db;">Doctor Winter</span>
 
-![Doctor Winter](https://via.placeholder.com/150)
-
 ## <span style="color:#e74c3c;">Overview</span>
 
 **<span style="color:#2ecc71;">Doctor Winter</span>** is an intelligent medical diagnosis system written in Prolog. It allows users to diagnose common and serious illnesses based on symptoms, age, allergies, and current medications. The system also suggests appropriate medications and provides additional considerations for certain conditions.
